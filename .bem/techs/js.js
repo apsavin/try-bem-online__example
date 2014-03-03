@@ -1,5 +1,7 @@
 var template = require('bem').template;
 
+exports.API_VER = 2;
+
 exports.techMixin = {
 
     getCreateSuffixes: function () {
