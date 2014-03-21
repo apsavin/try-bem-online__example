@@ -20,8 +20,8 @@ MAKE.decl('Arch', {
     },
 
     libraries: [
-        'bem-core @ f4b46ef0590549042d938f7e981df4d14eb4caef',
-        'bem-components @ 82301a8af6c15c2849d1f755a24f594de6522251'
+        'bem-core @ 9df817d2d296e75ee4adebdb117b4bd159ad0109',
+        'bem-components @ 1c153168c56c10c4d74c2ef0a2e21ca39a00fcb5'
     ]
 
 });
